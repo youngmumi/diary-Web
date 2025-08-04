@@ -1,0 +1,19 @@
+body {
+    font-family: 'Pretendard', sans-serif;
+    background-color: #f9f9f9;
+    padding: 2rem;
+    color: #333;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.diary-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    white-space: pre-wrap;
+}
